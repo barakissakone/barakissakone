@@ -4,9 +4,6 @@
 ### Master Big Data • Intelligence Artificielle • Développement
 Future Data Engineer • Développeuse Full-Stack • Data • Computer Vision
 
-<img src="https://img.shields.io/badge/🎓_Disponible-alternance-E8A400?style=flat-square&labelColor=12151F" height="20"/>
-<img src="https://img.shields.io/badge/📍_Lille-mobile_France-0EA894?style=flat-square&labelColor=12151F" height="20"/>
-
 <br>
 
 <a href="https://barakissa-portfolio.vercel.app">
@@ -55,13 +52,25 @@ Je recherche actuellement une alternance afin de contribuer à des projets innov
 
 ## Technologies
 
-| Langages | Front-End | Back-End |
-|-----------|-----------|-----------|
-| <img src="https://skillicons.dev/icons?i=python" height="22" title="Python"/> <img src="https://skillicons.dev/icons?i=java" height="22" title="Java"/> <img src="https://skillicons.dev/icons?i=js" height="22" title="JavaScript"/> <img src="https://skillicons.dev/icons?i=php" height="22" title="PHP"/> | <img src="https://skillicons.dev/icons?i=react" height="22" title="React"/> <img src="https://skillicons.dev/icons?i=angular" height="22" title="Angular"/> <img src="https://skillicons.dev/icons?i=html" height="22" title="HTML5"/> <img src="https://skillicons.dev/icons?i=css" height="22" title="CSS3"/> | <img src="https://skillicons.dev/icons?i=fastapi" height="22" title="FastAPI"/> <img src="https://skillicons.dev/icons?i=symfony" height="22" title="Symfony"/> <img src="https://skillicons.dev/icons?i=nodejs" height="22" title="Node.js"/> |
+**Langages & Frameworks**
 
-| Data & IA | Bases de données | Outils |
-|------------|------------------|---------|
-| <img src="https://skillicons.dev/icons?i=opencv" height="22" title="OpenCV"/> <img src="https://img.shields.io/badge/YOLO-black?style=flat-square" height="17" title="YOLO"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas" height="17" title="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy" height="17" title="NumPy"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn" height="17" title="scikit-learn"/> | <img src="https://skillicons.dev/icons?i=postgres" height="22" title="PostgreSQL"/> <img src="https://skillicons.dev/icons?i=mysql" height="22" title="MySQL"/> <img src="https://skillicons.dev/icons?i=mongodb" height="22" title="MongoDB"/> | <img src="https://skillicons.dev/icons?i=git" height="22" title="Git"/> <img src="https://skillicons.dev/icons?i=github" height="22" title="GitHub"/> <img src="https://skillicons.dev/icons?i=docker" height="22" title="Docker"/> <img src="https://skillicons.dev/icons?i=vercel" height="22" title="Vercel"/> <img src="https://skillicons.dev/icons?i=vscode" height="22" title="VS Code"/> |
+| Langages | Front-End | Back-End |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python" height="22" title="Python" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=java" height="22" title="Java" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=js" height="22" title="JavaScript" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=php" height="22" title="PHP" style="vertical-align:middle"/> | <img src="https://skillicons.dev/icons?i=react" height="22" title="React" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=angular" height="22" title="Angular" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=html" height="22" title="HTML5" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=css" height="22" title="CSS3" style="vertical-align:middle"/> | <img src="https://skillicons.dev/icons?i=fastapi" height="22" title="FastAPI" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=symfony" height="22" title="Symfony" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=nodejs" height="22" title="Node.js" style="vertical-align:middle"/> |
+
+**Data & IA**
+
+<img src="https://skillicons.dev/icons?i=opencv" height="22" title="OpenCV" style="vertical-align:middle"/>
+<img src="https://img.shields.io/badge/YOLO-black?style=flat-square" height="22" title="YOLO" style="vertical-align:middle"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="22" title="Pandas" style="vertical-align:middle"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="22" title="NumPy" style="vertical-align:middle"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="22" title="scikit-learn" style="vertical-align:middle"/>
+
+**Bases de données & Outils**
+
+| Bases de données | Outils |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=postgres" height="22" title="PostgreSQL" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=mysql" height="22" title="MySQL" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=mongodb" height="22" title="MongoDB" style="vertical-align:middle"/> | <img src="https://skillicons.dev/icons?i=git" height="22" title="Git" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=github" height="22" title="GitHub" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=docker" height="22" title="Docker" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=vercel" height="22" title="Vercel" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=vscode" height="22" title="VS Code" style="vertical-align:middle"/> |
 
 ---
 
@@ -76,6 +85,9 @@ Je recherche actuellement une alternance afin de contribuer à des projets innov
 
 ---
 
-## Portfolio
+<div align="center">
 
-🌐 **https://barakissa-portfolio.vercel.app**
+<img src="https://img.shields.io/badge/🎓_Disponible-alternance-E8A400?style=flat-square&labelColor=12151F" height="20"/>
+<img src="https://img.shields.io/badge/📍_Lille-mobile_France-0EA894?style=flat-square&labelColor=12151F" height="20"/>
+
+</div>
