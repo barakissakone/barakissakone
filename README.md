@@ -22,6 +22,14 @@ Analyste de Données • Risques de Crédit • Data Visualisation
 
 ---
 
+## Technologies
+
+| Langages & Data | Visualisation | Mathématiques & Stats |
+|---|---|---|
+| <img src="https://skillicons.dev/icons?i=python,sql" /> <img src="https://img.shields.io/badge/SAS-1B75BC?style=flat-square&logo=sas&logoColor=white"/> <img src="https://img.shields.io/badge/VBA-217346?style=flat-square"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn"/> | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/> | <img src="https://img.shields.io/badge/ARIMA%2FGARCH-4B0082?style=flat-square"/> <img src="https://img.shields.io/badge/Probabilités_%26_Stats-005571?style=flat-square"/> |
+
+---
+
 ## À propos
 
 Étudiante en Master Big Data & Data Science appliqué à la Finance à ESG Finance, Paris.
@@ -34,11 +42,3 @@ Disponible pour un stage en Analyse de Données - Risques de Crédit à partir d
 
 **Assistante Data Analyst — Versus Banque, Abidjan** *(Juillet - Septembre 2024)*
 Analyse de données transactionnelles bancaires, développement de KPIs Finance & Risque, conception de dashboards décisionnels (Power BI, Tableau) et contribution à un modèle exploratoire de scoring de crédit.
-
----
-
-## Technologies
-
-| Langages & Data | Visualisation | Mathématiques & Stats |
-|---|---|---|
-| <img src="https://skillicons.dev/icons?i=python,sql" /> <img src="https://img.shields.io/badge/SAS-1B75BC?style=flat-square&logo=sas&logoColor=white"/> <img src="https://img.shields.io/badge/VBA-217346?style=flat-square"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn"/> | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/> | <img src="https://img.shields.io/badge/ARIMA%2FGARCH-4B0082?style=flat-square"/> <img src="https://img.shields.io/badge/Probabilités_%26_Stats-005571?style=flat-square"/> |
