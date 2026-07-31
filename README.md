@@ -2,69 +2,39 @@
 
 # Barakissa Koné
 
-### Master Big Data · Intelligence Artificielle · Développement
+### Master Big Data • Intelligence Artificielle • Développement
 
-Future Data Engineer · Développeuse Full-Stack · Data · Computer Vision
+Future Data Engineer • Développeuse Full-Stack • Data • Computer Vision
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://barakissa-portfolio.vercel.app">
-        <img
-          src="https://skillicons.dev/icons?i=vercel"
-          width="28"
-          alt="Portfolio"
-        />
-        <br />
-        <strong>Portfolio</strong>
-      </a>
-    </td>
+<br>
 
-    <td align="center">
-      <a href="mailto:Barakissakone412@gmail.com">
-        <img
-          src="https://img.icons8.com/color/48/gmail-new.png"
-          width="28"
-          alt="Email"
-        />
-        <br />
-        <strong>Email</strong>
-      </a>
-    </td>
+<a href="https://barakissa-portfolio.vercel.app">
+    <img src="https://skillicons.dev/icons?i=vercel" height="28"/>
+</a>
+&nbsp;
+<a href="https://barakissa-portfolio.vercel.app">
+<b>Portfolio</b>
+</a>
 
-    <td align="center">
-      <a href="https://www.linkedin.com/in/barakissayasmine">
-        <img
-          src="https://skillicons.dev/icons?i=linkedin"
-          width="28"
-          alt="LinkedIn"
-        />
-        <br />
-        <strong>LinkedIn</strong>
-      </a>
-    </td>
-  </tr>
+&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <tr>
-    <td align="center">
-      <a href="https://barakissa-portfolio.vercel.app">
-        barakissa-portfolio.vercel.app
-      </a>
-    </td>
+<a href="mailto:Barakissakone412@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" height="28"/>
+</a>
+&nbsp;
+<a href="mailto:Barakissakone412@gmail.com">
+<b>Barakissakone412@gmail.com</b>
+</a>
 
-    <td align="center">
-      <a href="mailto:Barakissakone412@gmail.com">
-        Barakissakone412@gmail.com
-      </a>
-    </td>
+&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
 
-    <td align="center">
-      <a href="https://www.linkedin.com/in/barakissayasmine">
-        barakissayasmine
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://www.linkedin.com/in/barakissayasmine">
+<img src="https://skillicons.dev/icons?i=linkedin" height="28"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/barakissayasmine">
+<b>LinkedIn</b>
+</a>
 
 </div>
 
@@ -72,98 +42,26 @@ Future Data Engineer · Développeuse Full-Stack · Data · Computer Vision
 
 ## À propos
 
-Étudiante en Master Big Data, Intelligence Artificielle et Développement à l’IPSSI Lille.
+Étudiante en Master Big Data, Intelligence Artificielle & Développement à l'IPSSI.
 
-Je conçois des projets mêlant Data, IA, Computer Vision et développement Full-Stack. Je recherche actuellement une alternance pour l’année 2026–2027.
+Passionnée par la Data, l'IA, la Computer Vision et le développement Full-Stack, je développe des applications et des solutions exploitant les données pour répondre à des problématiques concrètes.
+
+Je recherche actuellement une alternance afin de contribuer à des projets innovants.
 
 ---
 
 ## Technologies
 
-<table>
-  <tr>
-    <th align="center">Langages</th>
-    <th align="center">Frontend</th>
-    <th align="center">Backend</th>
-  </tr>
+| Langages | Front-End | Back-End |
+|-----------|-----------|-----------|
+| <img src="https://skillicons.dev/icons?i=python,java,js,php" /> | <img src="https://skillicons.dev/icons?i=react,angular,html,css" /> | <img src="https://skillicons.dev/icons?i=fastapi,symfony,nodejs" /> |
 
-  <tr>
-    <td align="center">
-      <img
-        src="https://skillicons.dev/icons?i=python,java,js,php"
-        alt="Python, Java, JavaScript et PHP"
-      />
-    </td>
-
-    <td align="center">
-      <img
-        src="https://skillicons.dev/icons?i=react,angular,html,css"
-        alt="React, Angular, HTML et CSS"
-      />
-    </td>
-
-    <td align="center">
-      <img
-        src="https://skillicons.dev/icons?i=fastapi,symfony,nodejs"
-        alt="FastAPI, Symfony et Node.js"
-      />
-    </td>
-  </tr>
-
-  <tr>
-    <th align="center">Data & IA</th>
-    <th align="center">Bases de données</th>
-    <th align="center">Outils</th>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img
-        src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"
-        alt="Pandas"
-      />
-      <img
-        src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"
-        alt="NumPy"
-      />
-      <img
-        src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"
-        alt="Scikit-learn"
-      />
-      <img
-        src="https://img.shields.io/badge/YOLO-111111?style=flat-square"
-        alt="YOLO"
-      />
-      <img
-        src="https://img.shields.io/badge/Label%20Studio-FF6F00?style=flat-square"
-        alt="Label Studio"
-      />
-    </td>
-
-    <td align="center">
-      <img
-        src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"
-        alt="PostgreSQL, MySQL et MongoDB"
-      />
-    </td>
-
-    <td align="center">
-      <img
-        src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode"
-        alt="Git, GitHub, Docker, Vercel et VS Code"
-      />
-    </td>
-  </tr>
-</table>
+| Data & IA | Bases de données | Outils |
+|------------|------------------|---------|
+| <img src="https://skillicons.dev/icons?i=opencv" /> <img src="https://img.shields.io/badge/YOLO-black?style=flat-square"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn"/> | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode" /> |
 
 ---
 
-<div align="center">
+## Portfolio
 
-### Portfolio
-
-<a href="https://barakissa-portfolio.vercel.app">
-  barakissa-portfolio.vercel.app
-</a>
-
-</div>
+🌐 **https://barakissa-portfolio.vercel.app**
