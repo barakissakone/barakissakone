@@ -38,7 +38,7 @@ Future Data Engineer • Développeuse Full-Stack • Data • Computer Vision �
 
 </div>
 
-
+---
 | Langages | Front-End | Back-End |
 |:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=python" height="42" title="Python" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=java" height="42" title="Java" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=js" height="42" title="JavaScript" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=php" height="42" title="PHP" style="vertical-align:middle"/> | <img src="https://skillicons.dev/icons?i=react" height="42" title="React" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=angular" height="42" title="Angular" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=html" height="42" title="HTML5" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=css" height="42" title="CSS3" style="vertical-align:middle"/> | <img src="https://skillicons.dev/icons?i=fastapi" height="42" title="FastAPI" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=symfony" height="42" title="Symfony" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=nodejs" height="42" title="Node.js" style="vertical-align:middle"/> |
