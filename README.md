@@ -57,6 +57,6 @@ Future Data Engineer • Développeuse Full-Stack • Data • Computer Vision �
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🎓_Recherche-contrat_d'apprentissage-E8A400?style=flat-square&labelColor=12151F" height="24"/> <img src="https://img.shields.io/badge/📍_Lille-mobile_sur_toute_la_France-0EA894?style=flat-square&labelColor=12151F" height="24"/>
+🎓 Recherche un contrat d'apprentissage  ·  📍 Lille, mobile sur toute la France
 
 </div>
