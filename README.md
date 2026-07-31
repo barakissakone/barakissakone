@@ -6,33 +6,32 @@
 
 Future Data Engineer • Data • Computer Vision • Full-Stack
 
-<p>
+<p align="center">
+
 <a href="https://barakissa-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-DAA520?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:Barakissakone412@gmail.com">
-<img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gmail-Barakissakone412%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/barakissayasmine">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Barakissa%20Koné-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
-
 </div>
 
 ---
 
-## About
+## À propos
 
-Master Big Data, Intelligence Artificielle & Développement à l'IPSSI.
+Étudiante en Master Big Data, Intelligence Artificielle & Développement à l'IPSSI Lille.
 
-Je développe des applications Data, IA et Full-Stack avec Python, React et FastAPI.
+Passionnée par la Data, l'Intelligence Artificielle, la Computer Vision et le développement Full-Stack, je conçois des solutions innovantes autour de la donnée.
 
-Je recherche actuellement une alternance.
-
+Je recherche actuellement une alternance afin de contribuer à des projets à fort impact et de continuer à développer mes compétences.
 ---
 
 ## Technologies
