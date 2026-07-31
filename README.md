@@ -60,11 +60,7 @@ Je recherche actuellement une alternance afin de contribuer à des projets innov
 
 **Data & IA**
 
-<img src="https://skillicons.dev/icons?i=opencv" height="22" title="OpenCV" style="vertical-align:middle"/>
-<img src="https://img.shields.io/badge/YOLO-black?style=flat-square" height="22" title="YOLO" style="vertical-align:middle"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="22" title="Pandas" style="vertical-align:middle"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="22" title="NumPy" style="vertical-align:middle"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="22" title="scikit-learn" style="vertical-align:middle"/>
+<img src="https://skillicons.dev/icons?i=opencv" height="22" title="OpenCV" style="vertical-align:middle"/> <img src="https://img.shields.io/badge/YOLO-black?style=flat-square" height="22" title="YOLO" style="vertical-align:middle"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="22" title="Pandas" style="vertical-align:middle"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="22" title="NumPy" style="vertical-align:middle"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="22" title="scikit-learn" style="vertical-align:middle"/>
 
 **Bases de données & Outils**
 
@@ -87,7 +83,6 @@ Je recherche actuellement une alternance afin de contribuer à des projets innov
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🎓_Disponible-alternance-E8A400?style=flat-square&labelColor=12151F" height="20"/>
-<img src="https://img.shields.io/badge/📍_Lille-mobile_France-0EA894?style=flat-square&labelColor=12151F" height="20"/>
+<img src="https://img.shields.io/badge/🎓_Disponible-alternance-E8A400?style=flat-square&labelColor=12151F" height="20"/> <img src="https://img.shields.io/badge/📍_Lille-mobile_France-0EA894?style=flat-square&labelColor=12151F" height="20"/>
 
 </div>
