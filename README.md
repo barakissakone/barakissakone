@@ -45,7 +45,7 @@ Je recherche actuellement une alternance afin de contribuer à des projets innov
 ## Dernière expérience
 
 **Stagiaire Data, IA & Computer Vision — Welleat**
-📍 Lille &nbsp;|&nbsp; 🗓️ Août 2026 – Sept. 2026
+📍 EuraTechnologie, Lille &nbsp;|&nbsp; 
 
 - Préparation, nettoyage et annotation de données images
 - Entraînement et évaluation de modèles de vision par ordinateur
