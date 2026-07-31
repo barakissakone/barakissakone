@@ -38,6 +38,7 @@ Future Data Engineer • Développeuse Full-Stack • Data • Computer Vision �
 
 </div>
 
+
 ---
 | Langages | Front-End | Back-End |
 |:---:|:---:|:---:|
