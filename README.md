@@ -1,5 +1,4 @@
 <div align="center">
-
 # Barakissa Koné
 ### Master Big Data • Intelligence Artificielle • Développement
 Future Data Engineer • Développeuse Full-Stack • Data • Computer Vision • IA
@@ -38,6 +37,7 @@ Future Data Engineer • Développeuse Full-Stack • Data • Computer Vision �
 </a>
 
 </div>
+
 
 | Langages | Front-End | Back-End |
 |:---:|:---:|:---:|
