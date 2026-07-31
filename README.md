@@ -5,7 +5,7 @@
 Future Data Engineer • Développeuse Full-Stack • Data • Computer Vision • IA
 
 <br>
-
+ 
 <a href="https://barakissa-portfolio.vercel.app">
     <img src="https://skillicons.dev/icons?i=vercel" height="22" title="Portfolio"/>
 </a>
