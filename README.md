@@ -1,44 +1,62 @@
 <div align="center">
 
-# Awa Magassouba
-### Master Big Data & Data Science • Finance
-Analyste de Données • Risques de Crédit • Data Visualisation
+# Barakissa Koné
+### Master Big Data • Intelligence Artificielle • Développement
+Future Data Engineer • Développeuse Full-Stack • Data • Computer Vision • IA
 
 <br>
 
-<a href="mailto:awasakinamagassouba@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" height="28"/>
+<a href="https://barakissa-portfolio.vercel.app">
+    <img src="https://skillicons.dev/icons?i=vercel" height="22" title="Portfolio"/>
 </a>
 &nbsp;
-<a href="mailto:awasakinamagassouba@gmail.com">
-<b>awasakinamagassouba@gmail.com</b>
+<a href="https://barakissa-portfolio.vercel.app">
+<b>Portfolio</b>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/phone.png" height="28"/>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="mailto:Barakissakone412@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" height="22" title="Email"/>
+</a>
 &nbsp;
-<b>+33 6 19 68 15 66</b>
+<a href="mailto:Barakissakone412@gmail.com">
+<b>Barakissakone412@gmail.com</b>
+</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/barakissayasmine">
+<img src="https://skillicons.dev/icons?i=linkedin" height="22" title="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/barakissayasmine">
+<b>LinkedIn</b>
+</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://github.com/barakissakone">
+<img src="https://skillicons.dev/icons?i=github" height="22" title="GitHub"/>
+</a>
+&nbsp;
+<a href="https://github.com/barakissakone">
+<b>GitHub</b>
+</a>
 
 </div>
 
 ---
 
-## Technologies
+## Ma stack
 
-| Langages & Data | Visualisation | Mathématiques & Stats |
-|---|---|---|
-| <img src="https://skillicons.dev/icons?i=python,sql" /> <img src="https://img.shields.io/badge/SAS-1B75BC?style=flat-square&logo=sas&logoColor=white"/> <img src="https://img.shields.io/badge/VBA-217346?style=flat-square"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn"/> | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/> | <img src="https://img.shields.io/badge/ARIMA%2FGARCH-4B0082?style=flat-square"/> <img src="https://img.shields.io/badge/Probabilités_%26_Stats-005571?style=flat-square"/> |
+| Langages | Front-End | Back-End |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python" height="42" title="Python" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=java" height="42" title="Java" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=js" height="42" title="JavaScript" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=php" height="42" title="PHP" style="vertical-align:middle"/> | <img src="https://skillicons.dev/icons?i=react" height="42" title="React" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=angular" height="42" title="Angular" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=html" height="42" title="HTML5" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=css" height="42" title="CSS3" style="vertical-align:middle"/> | <img src="https://skillicons.dev/icons?i=fastapi" height="42" title="FastAPI" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=symfony" height="42" title="Symfony" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=nodejs" height="42" title="Node.js" style="vertical-align:middle"/> |
 
----
 
-## À propos
-
-Étudiante en Master Big Data & Data Science appliqué à la Finance à ESG Finance, Paris.
-Je m'intéresse à l'analyse de données, la modélisation statistique et la gestion des risques financiers, avec pour objectif de contribuer à une meilleure prise de décision au sein des institutions financières.
-Disponible pour un stage en Analyse de Données - Risques de Crédit à partir de **Mars 2026**.
+| Data & IA | Bases de données | Outils |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=opencv" height="42" title="OpenCV" style="vertical-align:middle"/> <img src="https://img.shields.io/badge/-%20-111111?style=flat-square" height="42" title="YOLO" style="vertical-align:middle"/> <img src="https://img.shields.io/badge/-%20-150458?style=flat-square&logo=pandas&logoColor=white" height="42" title="Pandas" style="vertical-align:middle"/> <img src="https://img.shields.io/badge/-%20-013243?style=flat-square&logo=numpy&logoColor=white" height="42" title="NumPy" style="vertical-align:middle"/> <img src="https://img.shields.io/badge/-%20-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="42" title="scikit-learn" style="vertical-align:middle"/> | <img src="https://skillicons.dev/icons?i=postgres" height="42" title="PostgreSQL" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=mysql" height="42" title="MySQL" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=mongodb" height="42" title="MongoDB" style="vertical-align:middle"/> | <img src="https://skillicons.dev/icons?i=git" height="42" title="Git" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=github" height="42" title="GitHub" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=docker" height="42" title="Docker" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=vercel" height="42" title="Vercel" style="vertical-align:middle"/> <img src="https://skillicons.dev/icons?i=vscode" height="42" title="VS Code" style="vertical-align:middle"/> |
 
 ---
 
-## Expérience
+<div align="center">
 
-**Assistante Data Analyst — Versus Banque, Abidjan** *(Juillet - Septembre 2024)*
-Analyse de données transactionnelles bancaires, développement de KPIs Finance & Risque, conception de dashboards décisionnels (Power BI, Tableau) et contribution à un modèle exploratoire de scoring de crédit.
+🎓 Recherche un contrat d'apprentissage  ·  📍 Lille, mobile sur toute la France
+
+</div>
