@@ -2,56 +2,66 @@
 
 # Barakissa Koné
 
-### Master Big Data • IA • Développement
+### Master Big Data • Intelligence Artificielle • Développement
 
-Future Data Engineer • Data • Computer Vision • Full-Stack
+Future Data Engineer • Développeuse Full-Stack • Data • Computer Vision
 
-<p align="center">
-
-<a href="https://barakissa-portfolio.vercel.app" target="_blank">
-<img src="https://skillicons.dev/icons?i=vercel" width="48"/>
 <br>
-Portfolio
+
+<a href="https://barakissa-portfolio.vercel.app">
+    <img src="https://skillicons.dev/icons?i=vercel" height="28"/>
+</a>
+&nbsp;
+<a href="https://barakissa-portfolio.vercel.app">
+<b>Portfolio</b>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:Barakissakone412@gmail.com">
-<img src="https://img.icons8.com/color/96/gmail-new.png" width="48"/>
-<br>
-Email
+<img src="https://img.icons8.com/color/48/gmail-new.png" height="28"/>
+</a>
+&nbsp;
+<a href="mailto:Barakissakone412@gmail.com">
+<b>Barakissakone412@gmail.com</b>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/barakissayasmine" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-<br>
-LinkedIn
+<a href="https://www.linkedin.com/in/barakissayasmine">
+<img src="https://skillicons.dev/icons?i=linkedin" height="28"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/barakissayasmine">
+<b>LinkedIn</b>
 </a>
 
-</p>
 </div>
 
 ---
 
 ## À propos
 
-Étudiante en Master Big Data, Intelligence Artificielle & Développement à l'IPSSI Lille.
+Étudiante en Master Big Data, Intelligence Artificielle & Développement à l'IPSSI.
 
-Passionnée par la Data, l'Intelligence Artificielle, la Computer Vision et le développement Full-Stack, je conçois des solutions innovantes autour de la donnée.
+Passionnée par la Data, l'IA, la Computer Vision et le développement Full-Stack, je développe des applications et des solutions exploitant les données pour répondre à des problématiques concrètes.
 
-Je recherche actuellement une alternance afin de contribuer à des projets à fort impact et de continuer à développer mes compétences.
+Je recherche actuellement une alternance afin de contribuer à des projets innovants.
+
 ---
 
 ## Technologies
 
-| Languages | Front-End | Back-End | Data & IA | Database | Tools |
-|-----------|-----------|----------|-----------|----------|-------|
-| <img src="https://skillicons.dev/icons?i=python,java,js,php" /> | <img src="https://skillicons.dev/icons?i=react,angular,html,css" /> | <img src="https://skillicons.dev/icons?i=fastapi,symfony,nodejs" /> | <img src="https://skillicons.dev/icons?i=opencv" /> <img src="https://img.shields.io/badge/YOLO-black?style=flat-square"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/> | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode" /> |
+| Langages | Front-End | Back-End |
+|-----------|-----------|-----------|
+| <img src="https://skillicons.dev/icons?i=python,java,js,php" /> | <img src="https://skillicons.dev/icons?i=react,angular,html,css" /> | <img src="https://skillicons.dev/icons?i=fastapi,symfony,nodejs" /> |
+
+| Data & IA | Bases de données | Outils |
+|------------|------------------|---------|
+| <img src="https://skillicons.dev/icons?i=opencv" /> <img src="https://img.shields.io/badge/YOLO-black?style=flat-square"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn"/> | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode" /> |
 
 ---
 
-### Portfolio
+## Portfolio
 
-https://barakissa-portfolio.vercel.app
+🌐 **https://barakissa-portfolio.vercel.app**
