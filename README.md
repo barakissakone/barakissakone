@@ -9,19 +9,25 @@ Future Data Engineer • Data • Computer Vision • Full-Stack
 <p align="center">
 
 <a href="https://barakissa-portfolio.vercel.app" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vercel" height="48"/>
+<img src="https://skillicons.dev/icons?i=vercel" width="48"/>
+<br>
+Portfolio
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:Barakissakone412@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="48"/>
+<br>
+Email
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/barakissayasmine" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+<br>
+LinkedIn
 </a>
 
 </p>
